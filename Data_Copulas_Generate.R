@@ -127,7 +127,7 @@ DataRaw<- matrix(c(loc11, loc21, loc31,
                    loc13, loc23, loc33),ncol=3)  
 
 
-
+rm(loc11, loc12, loc13, loc21, loc22, loc23, loc31, loc32, loc33, a, b, c, i, j, m, n, x, z, u, sizeD, sigma)
 # plot data
 
 
